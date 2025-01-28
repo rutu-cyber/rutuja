@@ -35,11 +35,11 @@ const projectsData = [
     {
       id: 4,
       title: "Homzy",
-      description: "Real-estate full stack website",
+      description: "Real-estate mern stack website",
       image: "/images/projects/4.png",
       tag: ["All", "MERN"],
-      gitUrl: "/",
-      previewUrl: "/",
+      gitUrl: "https://github.com/rutu-cyber/Real-Estate-Homyzz",
+      previewUrl: "https://real-estate-homyzz.vercel.app/",
     },
     {
       id: 5,
