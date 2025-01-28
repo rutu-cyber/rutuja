@@ -116,7 +116,12 @@ const projectsData = [
           <ProjectTag
             onClick={handleTagChange}
             name="MERN"
-            isSelected={tag === "MERNy"}
+            isSelected={tag === "MERN"}
+          />
+          <ProjectTag
+            onClick={handleTagChange}
+            name="NEXT"
+            isSelected={tag === "NEXT"}
           />
         </div>
         <ul ref={ref} className="grid md:grid-cols-3 gap-8 md:gap-12">
