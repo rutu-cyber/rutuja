@@ -64,7 +64,7 @@ const projectsData = [
       title: "Hotel Website",
       description: "Next and React based website used stripe",
       image: "/images/projects/4.png",
-      tag: ["All", "React"],
+      tag: ["All", "React", "Next"],
       gitUrl: "/",
       previewUrl: "/",
     },
@@ -120,8 +120,8 @@ const projectsData = [
           />
           <ProjectTag
             onClick={handleTagChange}
-            name="NEXT"
-            isSelected={tag === "NEXT"}
+            name="Next"
+            isSelected={tag === "Next"}
           />
         </div>
         <ul ref={ref} className="grid md:grid-cols-3 gap-8 md:gap-12">
