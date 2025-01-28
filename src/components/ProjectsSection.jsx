@@ -49,7 +49,7 @@ const projectsData = [
       tag: ["All", "React"],
       gitUrl: "/",
       previewUrl: "/",
-    },
+    }, 
     {
       id: 6,
       title: "Blog",
@@ -63,7 +63,7 @@ const projectsData = [
       id: 7,
       title: "Hotel Website",
       description: "Next and React based website used stripe",
-      image: "/images/projects/4.png",
+      image: "/images/projects/7.png",
       tag: ["All", "React", "Next"],
       gitUrl: "/",
       previewUrl: "/",
